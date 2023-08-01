@@ -1,0 +1,57 @@
+/* This is Internal Style */
+
+p{
+    font-size: 24px;
+    color: rgb(162, 224, 240);
+}
+
+#para1{
+color: rgb(230, 80, 155);
+background-color: aqua;
+margin: 15px;
+padding: 25px;
+ border-style: groove;
+    border-color: brown;
+    border-radius: 25px;
+    border-width: 1px;
+    border-color: brown;
+    border-style: solid;
+   
+}
+
+#para2{
+    color: rgb(48, 202, 74);
+    background-image: url(unnamed.png);
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.font1{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+body{
+    background-image: url(unnamed.png);
+    background-size: cover;
+    background-position: center;
+}
+
+
+#para3{
+    border-width: 5px;
+    border-style: groove;
+    border-color: brown;
+    border-radius: 25px;
+}
+
+body{
+    border-width: 1px ;
+    border-color: red;
+    border-style: solid;
+    margin: 30px ;
+    padding: 20px;
+}
